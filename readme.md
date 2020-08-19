@@ -1,4 +1,4 @@
-### Hi there, I'm Awais - aka [JsJunkie][website] 👋
+### Hi there, I'm Awais - aka [JsJunkie][instagram] 👋
 
 ## I'm a Student, Web Developer, and footballer!
 
