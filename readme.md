@@ -81,4 +81,4 @@
 
 [website]: https://kazmi066.github.io
 [instagram]: https://www.instagram.com/jsjunkie01
-[linkedin]: www.linkedin.com/in/kazmi066
+[linkedin]: https://www.linkedin.com/in/kazmi066
