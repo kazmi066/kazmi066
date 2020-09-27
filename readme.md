@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a MERN stack!
 - 🌱 I’m currently learning everything About Web 🤣
-- 👯 I’m working as an intern doing Wordpress
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
