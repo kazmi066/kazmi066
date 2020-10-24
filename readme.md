@@ -46,9 +46,9 @@
 
 ### 📕 Latest Blog Posts
 
-BLOG-POST-LIST:START
-- [Getting started with React-bootstrap](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-BLOG-POST-LIST:END
+<!--BLOG-POST-LIST:START-->
+- [Getting started with React-bootstrap](https://dev.to/kazmi066/starting-with-react-bootstrap-492d)
+<!--BLOG-POST-LIST:END-->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
