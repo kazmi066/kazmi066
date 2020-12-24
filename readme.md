@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a MERN stack!
 - 🌱 I’m currently learning everything About Web 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Making some creative projects
 
 ### Connect with me:
 
