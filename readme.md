@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="notFound.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="notFound | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&f=1&nofb=1" />][linkedin]
-[<img align="left" alt="notFound | Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.australianmartialarts.com.au%2Fwp-content%2Fuploads%2F2017%2F03%2Finsta-icon.png&f=1&nofb=1" />][instagram]
+[<img align="left" alt="notFound.com" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/29-512.png" />][website]
+[<img align="left" alt="notFound | LinkedIn" width="22px" src="https://www.australianmartialarts.com.au/wp-content/uploads/2017/03/insta-icon.png" />][linkedin]
+[<img align="left" alt="notFound | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][instagram]
 
 <br />
 
@@ -36,7 +36,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/29-512.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
