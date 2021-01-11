@@ -3,7 +3,7 @@
 ## I'm a Student, Web Developer, and footballer!
 
 - 🔭 I’m currently working on a MERN stack!
-- 🌱 I’m currently learning everything About Web 🤣
+- 🌱 I’m currently learning everything About Web 🙃
 - 🥅 2021 Goals: Making some creative projects
 
 ### Connect with me:
