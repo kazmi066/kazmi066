@@ -9,8 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="notFound.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="notFound | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="notFound | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="notFound | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&f=1&nofb=1" />][linkedin]
+[<img align="left" alt="notFound | Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.australianmartialarts.com.au%2Fwp-content%2Fuploads%2F2017%2F03%2Finsta-icon.png&f=1&nofb=1" />][instagram]
 
 <br />
 
