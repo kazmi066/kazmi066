@@ -1,7 +1,5 @@
 # Hi there, I'm [Awais Abbas!](https://kazmi066.github.io) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazmi066" alt="kazmi066" /> </p>
-
 ## A passionate self-taught Fullstack Developer from Pakistan.
 
 - 🔭 I’m currently working on a MERN stack!
