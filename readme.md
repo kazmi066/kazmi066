@@ -2,8 +2,8 @@
 
 ## A passionate self-taught Fullstack Developer from Pakistan.
 
-- 🔭 I’m currently working on a MERN stack!
-- 🌱 I’m currently learning everything About Web 🙃
+- 🔭 I’m currently working on MERN stack!
+- 🌱 Currently learning everything About Web 🙃
 - 🥅 2021 Goals: Making some creative projects
 
 ---
