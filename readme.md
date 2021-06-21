@@ -1,10 +1,6 @@
 # Hi there, I'm [Awais Abbas!](https://kazmi066.github.io) 👋
 
-## A passionate self-taught Fullstack Developer from Pakistan.
-
-- 🔭 I’m currently working on MERN stack!
-- 🌱 Currently learning everything About Web 🙃
-- 🥅 2021 Goals: Making some creative projects
+## Just a self-taught Developer love to programme
 
 ---
 
