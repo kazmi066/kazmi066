@@ -1,6 +1,6 @@
 # Hi there, I'm [Awais Abbas!](https://kazmi066.github.io) 👋
 
-## Just a self-taught Developer love to programme
+## A self-taught Developer who love to programme
 
 ---
 
