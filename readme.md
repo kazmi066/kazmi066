@@ -2,16 +2,12 @@
 
 ## I love programming
 
----
-
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with React-bootstrap](https://dev.to/kazmi066/starting-with-react-bootstrap-492d)
 - [Creating and publishing your own npm package](https://dev.to/kazmi066/create-and-publish-your-own-npm-package-with-good-example-104m)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ### **Languages and Tools:**
 
