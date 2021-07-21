@@ -1,4 +1,4 @@
-# wassup!, I'm [Awais](https://kazmi066.github.io) 👋
+# sup!, I'm [Awais](https://kazmi066.github.io) 👋
 
 ## I love programming
 
@@ -9,7 +9,7 @@
 - [Creating and publishing your own npm package](https://dev.to/kazmi066/create-and-publish-your-own-npm-package-with-good-example-104m)
 <!-- BLOG-POST-LIST:END -->
 
-### **Languages and Tools:**
+### **Working with:**
 
 <br>
 <p align="left">
