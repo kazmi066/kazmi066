@@ -1,6 +1,4 @@
-# sup!, I'm [Awais](https://kazmi066.github.io) 👋
-
-## I love programming
+## Grabbing the concepts of web 🚀
 
 ### **Blog posts**
 
