@@ -30,16 +30,16 @@
 
 ---
 
-<br/>
+<!-- <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazmi066&layout=compact&theme=radical)](https://github.com/kazmi066)
-<br>
+<br> -->
 
----
+<!-- --- -->
 
 ## Connect with me
 
-<div align="center">
+<div>
 <a href="mailto:awaisabbas47@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
