@@ -1,4 +1,4 @@
-## Grabbing the concepts of web 🚀
+## Understanding the Web 🚀
 
 ### **Blog posts**
 
