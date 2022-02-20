@@ -1,4 +1,4 @@
-## Understanding the Web 🚀
+## Fullstack Developer 🚀
 
 ### **Blog posts**
 
