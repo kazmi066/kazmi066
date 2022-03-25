@@ -1,4 +1,7 @@
-# 👋 Hey, I am Awais
+## 👋 Hey, I am Awais
+
+A Software Engineer with a demonstrated history of working in Web Development and services industry. <br/>
+I am on my journey to Fullstack Development.
 
 ### **Stack I am working with:**
 - React
