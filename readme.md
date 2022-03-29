@@ -45,7 +45,7 @@ I am on my journey to Fullstack Development.
 
 </a>
 
-<a href="https://instagram.com/kazmi066" target="_blank">
+<a href="https://instagram.com/kazmi_066" target="_blank">
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 </a>
