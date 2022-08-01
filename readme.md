@@ -1,21 +1,19 @@
-## 👋 Hey, I am Awais
+## 👋 Hey!
 
-A Software Engineer with a demonstrated history of working in Web Development and services industry. <br/>
-I am on my journey to Fullstack Development.
+I am a Software Engineer with a demonstrated history of working in Web Development and services industry. <br/>
+I am on the journey to Fullstack Development.
 
-### **Stack I am working with:**
+### **Currently I am working with:**
 React - Node - Express - Next - GraphQL
 
----
 
-### **Some blog posts**
+### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with React-bootstrap](https://dev.to/kazmi066/starting-with-react-bootstrap-492d)
 - [Creating and publishing your own npm package](https://dev.to/kazmi066/create-and-publish-your-own-npm-package-with-good-example-104m)
 - [Converting jsx to downloadable pdf in react](https://dev.to/kazmi066/converting-jsx-to-downloadable-pdf-in-react-20bh)
 <!-- BLOG-POST-LIST:END -->
-
 
 
 ## Connect with me
