@@ -1,9 +1,21 @@
 ## 👋 Hey!
+I am a Software Engineer with a demonstrated history of working in Web Development and services industry.
 
-I am a Software Engineer with a demonstrated history of working in Web Development and services industry. <br/>
-I am on the journey to Fullstack Development.
+#### Now
 
-### **Currently I am working with:**
+- ✨ Reviewing PRs
+- :fire: Interested in Web and Mobile apps development
+- :calendar: Looking for contributing to javsacript based open source projects
+- 🌱 Helping other developers on **[stackoverflow](https://stackoverflow.com/users/14061728/kazmi066)**
+
+#### Bio
+
+- 🏢 I'm currently working at **Stellar Minore**
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.scss`
+- 🌍 I'm mostly active within the **Javascript Community**
+- 🌱 Learning all about **Fullstack Web**
+
+#### My Current Stack
 React - Node - Express - Next - GraphQL
 
 
