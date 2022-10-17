@@ -1,5 +1,5 @@
-## 👋 Hey!
-I am a Software Engineer with a demonstrated history of working in Web Development and services industry.
+## 👋 Hey! I am Awais
+Software Engineer | Fullstack Developer | Javascript
 
 #### Now
 
