@@ -1,7 +1,7 @@
 ## 👋 Hey! I am Awais
 Software Engineer | Fullstack Developer | Javascript
 
-#### Now
+#### Currently I am
 
 - ✨ Reviewing PRs
 - :fire: Interested in Web and Mobile apps development
