@@ -5,18 +5,14 @@ Software Engineer | Fullstack Developer | Javascript
 
 - ✨ Reviewing PRs
 - :fire: Interested in Web and Mobile apps development
-- :calendar: Looking for contributing to javsacript based open source projects
-- 🌱 Helping other developers on **[stackoverflow](https://stackoverflow.com/users/14061728/kazmi066)**
-
-#### Bio
-
-- 🏢 I'm currently working at **Stellar Minore**
+- :calendar: Looking to contribute to open-source projects
+- 🌱 Answering on **[stackoverflow](https://stackoverflow.com/users/14061728/kazmi066)**
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.scss`
-- 🌍 I'm mostly active within the **Javascript Community**
+- 🌍 Keeping updates about anything related to **Javascript**
 - 🌱 Learning all about **Fullstack Web**
 
 #### My Current Stack
-React - Node - Express - Next - GraphQL
+React.js - Next.js - Tailwind-css/Bootstrap - Node/Express.js - GraphQL
 
 
 ### **Blog posts**
