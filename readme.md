@@ -18,6 +18,7 @@ React.js - Next.js - Tailwind-css/Bootstrap - Node/Express.js - GraphQL
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Dynamic form in react](https://dev.to/kazmi066/creating-dynamic-form-in-react-1n6g)
 - [Getting started with React-bootstrap](https://dev.to/kazmi066/starting-with-react-bootstrap-492d)
 - [Creating and publishing your own npm package](https://dev.to/kazmi066/create-and-publish-your-own-npm-package-with-good-example-104m)
 - [Converting jsx to downloadable pdf in react](https://dev.to/kazmi066/converting-jsx-to-downloadable-pdf-in-react-20bh)
