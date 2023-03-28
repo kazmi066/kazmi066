@@ -8,8 +8,6 @@ Software Engineer | Fullstack Developer | Javascript
 - :calendar: Looking to contribute to open-source projects
 - 🌱 Answering on **[stackoverflow](https://stackoverflow.com/users/14061728/kazmi066)**
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.scss`
-- 🌍 Keeping updates about anything related to Tech stuff especially **Javascript**
-- 🌱 Learning all about **Fullstack Web**
 
 #### My Current Stack
 React.js - Next.js - Tailwind-css/Bootstrap - Node/Express.js - GraphQL
