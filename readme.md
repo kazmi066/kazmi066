@@ -1,5 +1,5 @@
 ## 👋 Hey! I am Awais
-Software Engineer | Fullstack Developer | Javascript
+Frontend Web Developer
 
 #### Currently I am
 
