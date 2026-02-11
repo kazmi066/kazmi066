@@ -6,11 +6,11 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.gif" alt="🥸" width="32" height="32">
   </picture>
-  Hey! Nice to see you.
+  Hey!
 </h1>
 
-<p>I'm Awais, you can call me Kazmi - A Frontend developer and following to native things 🧑‍💻</p>
-<p>I have a huge passion for web development, software architect and how to make software scalable in the long term. </p>
+<p>I'm Awais - Another frontend guy</p>
+<p>I have huge love for web development, software architect and how to make software scalable in the long term. </p>
 
 ## 📫 Find me at
 <div id="badges">
