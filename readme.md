@@ -10,7 +10,7 @@
 </h1>
 
 <p>I'm Awais - Another frontend guy</p>
-<p>I have huge love for web development, software architect and how to make software scalable in the long term. </p>
+<p>I have huge love for web development, design principles and css (Yeah! css). </p>
 
 ## 📫 Find me at
 <div id="badges">
