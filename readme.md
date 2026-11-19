@@ -1,3 +1,8 @@
+Software Engineer
+Love to do Frontend/UX work
+Focused on Design Systems / Accessibility
+Getting familiar with Backend as well
+
 [RankLocal](https://ranklocal.cc) - Build, Rank and Monetize Local Lead Gen sites in Minutes.<br/>
 [QuickSaas](https://quicksaas.cc/) - Playground for assembling a SaaS homepage from section variants.<br/>
 [Better-launch](https://better-launch.cc) - Make quick launch videos.<br/>
